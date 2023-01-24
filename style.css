@@ -47,12 +47,12 @@ p{
 .navbar a:hover,
 .navbar-light .navbar-nav .nav-link.active 
 .navbar a.active{
-    color:plum;
+    color:rgba(228, 118, 175, 0.86);
     transition: 0.3s ease;
 }
 .nav-link li a:hover,
 .nav-link li a.active {
-    color: #088178
+    color: rgba(228, 118, 175, 0.86)
 }
 
 .nav-link li a.active::after,
@@ -60,7 +60,7 @@ p{
     content: "";
     width: 52%;
     height: 2px;
-    background: #088178;
+    background: rgba(228, 118, 175, 0.86);
     position: absolute;
     bottom: -4px;
     left: 20px;
@@ -378,7 +378,7 @@ footer .follow i {
 }
 
 footer .install .row img {
-    border: 1px solid #088178;
+    border: 1px solid rgba(228, 118, 175, 0.86);
     border-radius: 6px;
 }
 
@@ -388,7 +388,7 @@ footer .install img {
 
 footer .follow i:hover,
 footer a:hover {
-    color: #088178;
+    color: rgba(228, 118, 175, 0.86);
 }
 
 footer .copyright {
