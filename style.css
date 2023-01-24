@@ -37,10 +37,6 @@ p{
     top: 0;
     left: 0;
 }
-.nav-item {
-    display: flex;
-    flex-direction: row;
-}
 .navbar-light .navbar-nav .nav-link {
     padding: 0 40px;
     color: black;
