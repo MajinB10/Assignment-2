@@ -126,7 +126,7 @@ button.normal {
     padding: 15px 30px;
     margin-top: 10px;
     color: white;
-    background-color: rgba(228, 118, 175, 0.86);;
+    background-color: rgba(228, 118, 175, 0.86);
     border-radius: 4px;
     cursor: pointer;
     border: none;
@@ -161,8 +161,11 @@ body {
     font-weight: bold
 }
 #intro h1 {
-    color: plum;
+    color: aliceblue;
     font-weight: bold;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
 }
 
 #intro button {
@@ -227,6 +230,14 @@ body {
 }
 #product {
     text-align: center;
+}
+#product h2{
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(228, 118, 175, 0.86);
+}
+#product p{
+    font-weight: bold;
+    text-shadow: 0 0 1px #00FF9C;
 }
 
 #product .pro-container {
@@ -421,7 +432,18 @@ footer .copyright {
     font-weight: bold;
     font-size: 80px;
     color: aliceblue;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
 }
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
 /* About Page */
 #about-header {
     background-image: url("img/About-Banner.jpg");
