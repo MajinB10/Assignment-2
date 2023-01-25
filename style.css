@@ -311,6 +311,52 @@ body {
     bottom: 20px;
     right: 20px;
 }
+/* Single Product */
+#details .single-pro-image{
+    width: 40%;
+    margin-right: 20px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 50%;
+    border:rgba(0, 0, 0, 0.2);
+}
+
+#details .single-pro-details {
+    width: 50%;
+    padding-top: 90px;
+}
+#details .single-pro-details h6{
+    padding: 40px 0 20px 0;
+    font-weight: bold;
+}
+#details .single-pro-details h4 {
+    padding: 40px 0 20px 0;
+    font-weight: bold;
+}
+
+#details .single-pro-details h2 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+#details .single-pro-details input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#details .single-pro-details {
+    line-height: 25px;
+}
+#details .single-pro-details button{
+    height: 10%;
+}
+#details .single-pro-details button:hover{
+    transform: translateY(-5px);
+}
 #banner {
     display: flex;
     flex-direction: column;
