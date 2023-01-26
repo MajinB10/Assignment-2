@@ -639,17 +639,18 @@ footer .copyright {
     background-repeat: no-repeat;
     background-size: cover;
   }
-  .caption span.border{
-    background-color: #1a1a1a;
-    color: #fff;
-    padding: 18px;
-    font-size: 25px;
-    letter-spacing: 10px;
+  .parallax4 {
+    /* The image used */
+    background-image: url("img/About-Banner4.jpg");
+  
+    /* Set a specific height */
+    min-height: 1000px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
-  .caption{
-    position:static;
-    left: 0;
-    top: 50%;
-    width: 100%;
-    text-align: center;
-  }
+
+  
