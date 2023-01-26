@@ -162,12 +162,13 @@ body {
 }
 
 #intro h4 {
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     font-weight: bold
 }
 #intro h1 {
     color: aliceblue;
     font-weight: bold;
+    padding-bottom: 25px;
     -webkit-animation: glow 1s ease-in-out infinite alternate;
     -moz-animation: glow 1s ease-in-out infinite alternate;
     animation: glow 1s ease-in-out infinite alternate;
