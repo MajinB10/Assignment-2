@@ -619,7 +619,7 @@ footer .copyright {
     background-image: url("img/About-Banner2.jpg");
   
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 500px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -632,7 +632,7 @@ footer .copyright {
     background-image: url("img/About-Banner3.jpg");
   
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 500px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -645,7 +645,7 @@ footer .copyright {
     background-image: url("img/About-Banner4.jpg");
   
     /* Set a specific height */
-    min-height: 1000px; 
+    min-height: 500px; 
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -654,6 +654,4 @@ footer .copyright {
     background-size: cover;
   }
 
-  /*.navbar-custom{
-    background-color: lightblue;
-  }*/
+
