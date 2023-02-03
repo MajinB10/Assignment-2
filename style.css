@@ -599,6 +599,9 @@ footer .copyright {
         left: 50%;
         transform: translate(-50%, -50%);
     }
+    #intro h4 {
+        padding-bottom: 2px;
+    }
 
 }
 /*Parallex Page*/
