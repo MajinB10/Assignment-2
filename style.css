@@ -40,6 +40,10 @@ p{
 body {
     background-color: rgba(255, 147, 203, 0.3); /*Need To Change */
 }
+#navbarcustom .container-fluid img{
+    height: 7%;
+    width: 7%;
+}
 .navbar{
     font-size: 16px;
     top: 0;
@@ -562,6 +566,10 @@ footer .copyright {
     }
     .aesthetic1 {
         padding: 20px;
+    }
+    #navbarcustom .container-fluid img{
+        height: 25%;
+        width: 25%;
     }
     #featured .fe-box {
         width: 155px;
