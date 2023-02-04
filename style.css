@@ -622,11 +622,11 @@ footer .copyright {
 }
 #About-Us{
     position:absolute;
-          left: 35%;
-          top: 40%;
-          width: 30%;
-          text-align: center;
-          background-color: #1a1a1a;
+    left: 35%;
+    top: 40%;
+    width: 30%;
+    text-align: center;
+    background-color: #1a1a1a;
     color: #fff;
     padding: 18px;
     font-size: 25px;
