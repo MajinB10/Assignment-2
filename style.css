@@ -646,6 +646,7 @@ footer .copyright {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top 50%;
   }
   .parallax3 {
     /* The image used */
