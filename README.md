@@ -12,7 +12,7 @@ Feature7 - The entire page has a background color which suits the accent of our 
 Feature8 - Page is responsive.<br /><br />
 
 ## ----------Shop.html----------
-Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by me. Navigation Bar is created using Bootstrap.<br />
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by me. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 - There is a shop header which shows that you are in the shop section of the website.<br /><br />
 Feature3 - Below he shop header, all the products offered by our e-commerce store will be shown. Each product is interactable and has an hover effect. Once the user clicks onto the product, the respective product.html file will be opened.<br /><br />
 Feature4 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
