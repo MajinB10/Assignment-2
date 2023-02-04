@@ -2,8 +2,8 @@
 Claire is our fictionally created e-commerce website which focuses on selling the beauty products and cosmetic accessories. We will be selling very exquisite facial creams and fragrant perfumes. The website aims to satisfy every customer on their visit to this e-commerce website thus it will offer customers for a chance to win free goodies or vouchers on their visit to this website. Customers will be able to create free accounts which will be stored in our database. Each account will have certain number of points. Points will later be used for the gacha system.
 
 ## ----------Index.html----------
-Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.
-Feature2 - Has a background image related to the overall theme of the website. The Picture has some words which act as advertisements to the user. Below the advertsing words, there is a shop now button. Clicking on the shop now button will lead to the shop.html file.
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap. <br />
+Feature2 - Has a background image related to the overall theme of the website. The Picture has some words which act as advertisements to the user. Below the advertsing words, there is a shop now button. Clicking on the shop now button will lead to the shop.html file. <br />
 Feature3 - Shows cetegories of products which are avaiable in my store. These objects cannot be clicked on and only has a hover effect placed on them.
 Feature4 - Has a featured sections which shows popular products bought by our previous customers. clicking on this object will open the specific product.html file. Object has hover attributes.
 Feature5 - We have created a banner to advertise the current event that our e-commerce store offers. Below that banner i hava a Explore Now button which, once clicked, will open shop.html.
