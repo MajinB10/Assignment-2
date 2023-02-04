@@ -634,6 +634,13 @@ footer .copyright {
     justify-content: center;
 
 }
+#About-p {
+    height:100px;
+    background-color:black;
+    font-size:17px; 
+    color:whitesmoke; 
+    text-align:center;
+}
 /*Parallex Page*/
 .parallax {
     /* The image used */
