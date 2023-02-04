@@ -620,6 +620,48 @@ footer .copyright {
     }
 
 }
+#About-Us{
+    position:absolute;
+    left: 35%;
+    top: 40%;
+    width: 30%;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    justify-content: center;
+    box-shadow:0px 0px 10px 5px whitesmoke;
+
+}
+#About-p {
+    height:100px;
+    background-color:black;
+    font-size:17px; 
+    color:whitesmoke; 
+    text-align:center;
+    box-shadow:0px 0px 10px 5px whitesmoke;
+}
+#Caption {
+    position:absolute;
+    top: 330%;
+    left: 35%;
+    width: 30%;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    justify-content: center;
+    box-shadow:0px 0px 10px 5px whitesmoke;
+}
+#Caption p {
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 5px #FF0000, 0 0 5px #0000FF;  
+}
 /*Parallex Page*/
 .parallax {
     /* The image used */
@@ -643,9 +685,10 @@ footer .copyright {
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: center;
+    background-position: top 30%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top 50%;
   }
   .parallax3 {
     /* The image used */
