@@ -28,3 +28,4 @@ Feature4 - Below the product details, there will be 3 featured products similar 
 Feature5 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature6 - The entire page has a background color which suits the accent of our chosen theme which is beauty products.<br /><br />
 Feature7 - Page is responsive.<br /><br />
+## ----------Cart.html----------

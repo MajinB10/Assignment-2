@@ -716,5 +716,46 @@ footer .copyright {
     background-repeat: no-repeat;
     background-size: cover;
   }
+#SignIn  {
+    padding: 8%;
+}
+#SignIn h1 {
+    padding-bottom: 15px;
+}
+#SignIn .btn {
+    background-color: plum;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;   
+    transition: 0.3s ease;
+}
+#SignIn .btn:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: translateY(-3px);
+    background-color: black;
+    color: white;
+    transition: 0.3s ease;
+}
+#SignIn-Text {
+    font-weight: bold;
+}
+#SignIn input {
+    background-color: #FFFFFF;
+      border: 1px solid #CCCCCC;
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+      transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+  }
+  
+#SignIn input:focus {
+    border-color: rgba(127, 255, 212, 5);
+    box-shadow: 0 1px 3px rgba(127, 255, 212, 0.6) inset, 0 0 8px rgba(127, 255, 212, 0.6);
+    outline: 0 none;
+  }
 
 
