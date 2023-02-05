@@ -18,17 +18,18 @@ $(document).ready(function () {
               "cache-control": "no-cache"
             }
           }
-          console.log(username)
-          console.log(password)
+          console.log(typeof username)
+          console.log(typeof password)
           $.ajax(settings).done(function (response) {
             for (var i = 0; i < response.length; i++){
-                console.log(typeof response[i].username)
-                console.log(typeof response[i].password)
-                if(response[i].username == username && response[i].password == password){
+                console.log("Database username:" + response[i].username)
+                console.log("Database password:" + response[i].password)
+                if((response[i].username == username) && (response[i].password == password)){
                     console.log("True")
                     localStorage.setItem("username",username)
                     localStorage.setItem("pwd",password)
                     window.location.replace("/about.html");
+                    break
                 }
                 else{
                     alert("Invalid information");
