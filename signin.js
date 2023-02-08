@@ -29,6 +29,7 @@ $(document).ready(function () {
                     localStorage.setItem("username",username)
                     localStorage.setItem("pwd",password)
                     localStorage.setItem("useremail",response[i].useremail)
+                    localStorage.setItem("points",response[i].points)
                     window.location.replace("/about.html");
                     break
                 }

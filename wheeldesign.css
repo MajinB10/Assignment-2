@@ -3,7 +3,7 @@
 }
 
 #Wheel{
-    top: 100px;
+    top: 210px;
     height: 500px;
     width: 500px;
     background-color: aliceblue;
@@ -67,4 +67,33 @@
     background-color: green ;
     transform: rotate(315deg);
 
+}
+
+.arrow{
+    position: absolute;
+    top: 170px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+}
+
+.arrow::before{
+    content: "\1F817";
+    font-size: 70px;
+}
+
+#spin{
+    position: absolute;
+    top: 470px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 10;
+    background-color: gray;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
 }
