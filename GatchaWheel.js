@@ -1,3 +1,12 @@
+$(document).ready(function () {
+    if ((localStorage.getItem("username") == null) &&(localStorage.getItem("pwd") == null) ){
+        window.location.replace("/signin.html");
+    }
+
+})
+
+
+
 function popupToggle() {
     let container = document.querySelector("#Wheel")
     container.style.transform = "rotate(0deg)";
