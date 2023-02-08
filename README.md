@@ -35,9 +35,9 @@ Feature8 - Page is responsive.<br /><br />
 ## ----------About.html----------
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 - There is a About header which shows that you are in the ABout section of the website.<br /><br />
-Feature3 - The About page is made to have a parallex affect while scrolling down the page. While enjoying the parallex effect, the customers will be able to learn about CLaire's history and how is was founded. This makes an interesting experience for the customers who will definitely enjoy the experience.
-Feature4 - While scrolling the parallex effect, there will be different pictures of models holding our products and below above them will be the description of our history.
-Feature5 - At the final parallex scrolling effect, there will be a list of all the awards that we have recieved over the course of our business.
+Feature3 - The About page is made to have a parallex affect while scrolling down the page. While enjoying the parallex effect, the customers will be able to learn about CLaire's history and how is was founded. This makes an interesting experience for the customers who will definitely enjoy the experience.<br /><br />
+Feature4 - While scrolling the parallex effect, there will be different pictures of models holding our products and below above them will be the description of our history.<br /><br />
+Feature5 - At the final parallex scrolling effect, there will be a list of all the awards that we have recieved over the course of our business.<br /><br />
 Feature6 - Shows categories of products which are avaiable in our store. These objects cannot be clicked on and only has a hover effect placed on them.<br /><br />
 Feature7 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature8 - Page is responsive.<br /><br />
