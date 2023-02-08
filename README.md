@@ -1,4 +1,5 @@
 # Assignment-2
+## ----------Synopsis----------
 Claire is our fictionally created e-commerce website which focuses on selling the beauty products and cosmetic accessories. We will be selling very exquisite facial creams and fragrant perfumes. The website aims to satisfy every customer on their visit to this e-commerce website thus it will offer customers for a chance to win free goodies or vouchers on their visit to this website. Customers will be able to create free accounts which will be stored in our database. Each account will have certain number of points. Points will later be used for the gacha system.
 
 ## ----------Index.html----------
