@@ -542,84 +542,7 @@ footer .copyright {
 #about-head div {
     padding-left: 70px;
 }
-/* Media */
-@media (max-width: 799px) {
-    #intro {
-        height: 70vh;
-        padding: 0 80px;
-        background-position: top 30% right 45%;
-    }
-    #banner {
-        height: 20vh;
-    }
-}
 
-@media (max-width: 477px) {
-    #intro {
-        padding: 0 20px;
-        background-position: top 30% right 45%;
-    }
-    h2 {
-        font-size: 32px;
-    }
-    h1 {
-        font-size: 38px;
-    }
-    .aesthetic1 {
-        padding: 20px;
-    }
-    #navbarcustom .container-fluid img{
-        height: 25%;
-        width: 25%;
-    }
-    #featured .fe-box {
-        width: 155px;
-        margin: 0 0 15px 0;
-    }
-    #product .pro {
-        width: 100%;
-    }
-    #banner {
-        height: 40vh;
-    }
-
-    /* Single product */
-    #details {
-        display:flex;
-        flex-direction: column;
-    }
-
-    #details .single-pro-image {
-        width: 100%;
-        margin-right: 0px;
-    }
-    #details .single-pro-details {
-        width: 100%;
-    }
-    
-    /* About Page */
-    #about-head {
-        flex-direction: column;
-    }
-    #about-head img {
-        width: 100%;
-        margin-bottom: 20px ;
-    }
-    #about-head div {
-        padding-left: 0px;
-    }
-    #about-header h2 {
-        color: white;
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-    #intro h4 {
-        padding-bottom: 2px;
-    }
-
-}
 #About-Us{
     position:absolute;
     left: 35%;
@@ -805,3 +728,108 @@ footer .copyright {
 }
 
 
+/* Media */
+@media (max-width: 799px) {
+    #intro {
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 45%;
+    }
+    #banner {
+        height: 20vh;
+    }
+}
+
+@media (max-width: 477px) {
+    #intro {
+        padding: 0 20px;
+        background-position: top 30% right 45%;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    h1 {
+        font-size: 38px;
+    }
+    .aesthetic1 {
+        padding: 20px;
+    }
+    #navbarcustom .container-fluid img{
+        height: 25%;
+        width: 25%;
+    }
+    #featured .fe-box {
+        width: 155px;
+        margin: 0 0 15px 0;
+    }
+    #product .pro {
+        width: 100%;
+    }
+    #banner {
+        height: 40vh;
+    }
+
+    /* Single product */
+    #details {
+        display:flex;
+        flex-direction: column;
+    }
+
+    #details .single-pro-image {
+        width: 100%;
+        margin-right: 0px;
+    }
+    #details .single-pro-details {
+        width: 100%;
+    }
+    #intro h4 {
+        padding-bottom: 2px;
+    }
+    
+    /* About Page */
+    #About-Us{
+        position:absolute;
+        left: 15%;
+        top: 40%;
+        width: 70%;
+        text-align: center;
+        padding: 18px;
+        font-size: 25px;
+        letter-spacing: 10px;
+        justify-content: center;
+    
+    }
+    #About-p {
+        height:150px;
+        font-size:12px; 
+        text-align:center;
+        padding: 2%;
+     
+    }
+    #Caption {
+        position:absolute;
+        top: 330%;
+        left: 15%;
+        width: 70%;
+        text-align: center;
+        padding: 18px;
+        font-size: 14px;
+        letter-spacing: 10px;
+        justify-content: center;
+    }
+    #Caption p {
+        font-size: 12px;
+    }
+    .parallax {
+        min-height: 700px;
+    }
+    .parallax2 {
+        min-height: 300px;
+    }
+    .parallax3 {
+        min-height: 300px;
+    }
+    .parallax4 {
+        min-height: 300px;
+    }
+}
