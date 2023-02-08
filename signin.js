@@ -28,7 +28,7 @@ $(document).ready(function () {
                     console.log("True")
                     localStorage.setItem("username",username)
                     localStorage.setItem("pwd",password)
-                    localStorage.setItem("useremail",response[i].useremail)
+                    localStorage.setItem("useremail",response[i].userEmail)
                     localStorage.setItem("points",response[i].points)
                     window.location.replace("/about.html");
                     break
