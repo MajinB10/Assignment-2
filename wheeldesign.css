@@ -131,6 +131,10 @@
       visibility: hidden;
       opacity: 0;
       transition: 0.5s;
+      border-radius: 20%;
+}
+#popuph1 {
+    font-size: 30px;
 }
 
 #popup.active{
@@ -194,6 +198,7 @@
           visibility: hidden;
           opacity: 0;
           transition: 0.5s;
+          border-radius: 10%;
     }
     #popuph1 {
         font-size: 20px;
