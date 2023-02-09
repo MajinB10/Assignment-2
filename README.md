@@ -55,6 +55,8 @@ Feature6 - Page is responsive.<br /><br />
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature3 - Page is responsive.<br /><br />
+Feature4 - Using the GET Function of the Restdb API , the response will go through the conditioning, if the username and password made by user is same as the response from the GET it will store the responses information(username,userEmail,password and point,ID of the database)
+Feature5 - It has a link to the SignUp page
 
 ## ----------SignUp.html----------
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />

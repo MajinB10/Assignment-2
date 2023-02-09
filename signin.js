@@ -42,3 +42,7 @@ $(document).ready(function () {
     })
     
 })
+
+document.getElementsByClassName("signup").onclick = function(){
+  window.location.replace("/signup.html");
+};
