@@ -40,9 +40,9 @@ $(document).ready(function () {
             }
           });
     })
+
+    function signupPage() {
+      window.location.replace("/signup.html");
+    }
     
 })
-
-document.getElementsByClassName("signup").onclick = function(){
-  window.location.replace("/signup.html");
-};
