@@ -72,7 +72,8 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 
 ## ----------Tecnologies used----------
 1 - [JQuery](https://jquery.com/)
-* We used JQuery to have easier use of the DOM when writing in Javascript allowing us to select and change its attribures like innerHTML<br/>*
+* We used JQuery to have easier use of the DOM when writing in Javascript allowing us to select and change its attribures like innerHTML<br/>[//]: # (Hello)
+
 2 - [BootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * We used BootStrap to have an easier time making website elements like Nav Bar
 
