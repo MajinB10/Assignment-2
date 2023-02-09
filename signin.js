@@ -41,8 +41,9 @@ $(document).ready(function () {
           });
     })
 
-    function signupPage() {
-      window.location.replace("/signup.html");
+    function signUp() {
+      window.location.replace("/signup.html")
     }
+    document.getElementById("signup").onclick = function(){signUp()}
     
 })
