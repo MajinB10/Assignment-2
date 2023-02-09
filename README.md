@@ -67,3 +67,6 @@ Feature5 -  The Document will GET all the accounts from the database After the G
 
 ## ----------Gacha.html----------
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
+Feature2 - The wheel is made using CSS, each time a player spins the wheel 10 points will be deducted from the database using the PUT function update the database, and changing the localstorage of points.<br /><br />
+Feature3 - A popup of the won prize will be shown after 5 seconds,using function delay of the spin the HTML. 
+
