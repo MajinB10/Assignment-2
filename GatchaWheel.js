@@ -40,6 +40,10 @@ function spin(){
     let password = localStorage.getItem("pwd")
     let email = localStorage.getItem("useremail")
     let points = localStorage.getItem("points")
+
+    if (points<10){
+        return
+    }
     let max = 8;
     let min = 1;
     let noofRotation= 4*360
@@ -75,7 +79,7 @@ function spin(){
 
 
     Popup(chosenPrizeNo);
-    delay(10000).then(popupToggle);
+    delay(5000).then(popupToggle);
 
 
 }
