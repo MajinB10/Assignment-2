@@ -5,12 +5,12 @@
 }
 
 #Wheel{
-    top: 210px;
-    height: 500px;
-    width: 500px;
+    top: 140px;
+    height: 800px;
+    width: 800px;
     background-color: aliceblue;
     border-radius: 50%;
-    border: 15px solid gray;
+    border: 15px solid black;
     position: relative;
     overflow: hidden;
     transition: 5s;
@@ -23,18 +23,19 @@
 
 #Wheel div{
     height: 50%;
-    width: 200px;
+    width:500px;
     position: absolute;
-    clip-path: polygon(100% 0, 50% 100%,0 0);
+    clip-path: polygon(70% 0, 50% 100%,0 0);
     transform: translateX(-50%);
     transform-origin: bottom;
     text-align: center;
     display: flex;
     align-items: center;
+    padding-right: 9%;
     justify-content: center;
     font-size: 20px;
     font-weight: bold;
-    color: white;
+    color: black;
     left: 135px;
 }
 
@@ -43,45 +44,45 @@
     left: 50%;
 }
 #Wheel .two{
-    background-color: blue;
+    background-color: salmon;
     transform: rotate(45deg);
 }
 #Wheel .three{
-    background-color: orange;
+    background-color: lightgoldenrodyellow;
     transform: rotate(90deg);
 
 }
 #Wheel .four{
-    background-color: red;
+    background-color: lightseagreen;
     transform: rotate(135deg);
 
 }
 #Wheel .five{
-    background-color: rebeccapurple;
+    background-color: rosybrown;
     transform: rotate(180deg);
 }
 #Wheel .six{
-    background-color: yellow;
+    background-color: mintcream;
     transform: rotate(225deg);
 
 }
 #Wheel .seven{
-    background-color: brown;
+    background-color: lightcoral;
     transform: rotate(270deg);
 
 }
 #Wheel .eight{
-    background-color: green ;
+    background-color: honeydew;
     transform: rotate(315deg);
 
 }
 
 #arrow{
     position: absolute;
-    top: 170px;
+    top: 115px;
     left: 50%;
     transform: translateX(-50%);
-    color: white;
+    color: black;
 }
 
 #arrow.active{
@@ -91,16 +92,16 @@
 
 #arrow::before{
     content: "\1F817";
-    font-size: 70px;
+    font-size: 100px;
 }
 
 #spin{
     position: absolute;
-    top: 470px;
+    top: 530px;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 10;
-    background-color: gray;
+    background-color: black;
     text-transform: uppercase;
     font-weight: bold;
     width: 80px;
@@ -108,6 +109,7 @@
     border-radius: 50%;
     cursor: pointer;
     outline: none;
+    color: whitesmoke;
 }
 
 #spin.active{
@@ -125,7 +127,7 @@
       width: 50%;
       padding: 50px;
       box-shadow: 0 5px 30px rgba(0, 0, 0, .30);
-      background: #5E6174;
+      background: lightcoral;
       visibility: hidden;
       opacity: 0;
       transition: 0.5s;
