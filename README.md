@@ -48,10 +48,18 @@ Feature1 - Has a navigation Bar to navigate to different parts of the website. E
 Feature2 - It has a lottie animation in the background of the page to display ther mesasage that the cart section of the website is currently under maintenance. <br /><br />
 Feature3 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature4 - The entire page has a background color which is contrast to our theme for the website which is beauty products. This is to make sure the customers recieve the information that the cart section of the website is currently under maintenance and will not be mistaken for an advertisment or any other news.<br /><br />
-Feature5 - Page is responsive.<br /><br />
+Feature5 - The websiter has a lottie animation which is a powerbutton to showcase the downtime of the Cart section in the website. <br /><br />
+Feature6 - Page is responsive.<br /><br />
 
 ## ----------SignIn.html----------
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
+Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
+Feature3 - Page is responsive.<br /><br />
 
 ## ----------SignUp.html----------
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
+Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
+Feature3 - Page is responsive.<br /><br />
 
 ## ----------Gacha.html----------
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
