@@ -62,11 +62,15 @@ Feature5 - It has a link to the SignUp page<br /><br />
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature3 - Page is responsive.<br /><br />
-Feature4 - After clicking the Send button, it collates all the input variables and places them into data that will be POSTED to the RestDB database. The username and userEmail must be unique <br /><br />
-Feature5 -  The Document will GET all the accounts from the database After the GET response, the function for the button will be written. If the user inputs are similar in the response it will show an error message and the POST will not be sent.<br /><br />
+Feature4 - After clicking the Send button, it collates all the input variables and places them into data that will be POSTED to the RestDB database. The username and userEmail must be unique <br /><br/>
+Feature5 -  The Document will GET all the accounts from the database After the GET response, the function for the button will be written. If the user inputs are similar in the response it will show an error message and the POST will not be sent.<br /><br/>
 
 ## ----------Gacha.html----------
-Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
-Feature2 - The wheel is made using CSS, each time a player spins the wheel 10 points will be deducted from the database using the PUT function update the database, and changing the localstorage of points.<br /><br />
-Feature3 - A popup of the won prize will be shown after 5 seconds,using function delay of the spin the HTML. 
+Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br/>
+Feature2 - The wheel is made using CSS, each time a player spins the wheel 10 points will be deducted from the database using the PUT function update the database, and changing the localstorage of points.<br /><br/>
+Feature3 - A popup of the won prize will be shown after 5 seconds,using function delay of the spin the HTML. <br /><br/>
+
+## ----------Tecnologies used----------
+1 - [JQuery](https://jquery.com/)
+
 
