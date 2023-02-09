@@ -55,13 +55,15 @@ Feature6 - Page is responsive.<br /><br />
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature3 - Page is responsive.<br /><br />
-Feature4 - Using the GET Function of the Restdb API , the response will go through the conditioning, if the username and password made by user is same as the response from the GET it will store the responses information(username,userEmail,password and point,ID of the database)
-Feature5 - It has a link to the SignUp page
+Feature4 - Using the GET Function of the Restdb API , the response will go through the conditioning, if the username and password made by user is same as the response from the GET it will store the responses information(username,userEmail,password and point,ID of the database)<br /><br />
+Feature5 - It has a link to the SignUp page<br /><br />
 
 ## ----------SignUp.html----------
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />
 Feature2 -  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.<br /><br />
 Feature3 - Page is responsive.<br /><br />
+Feature4 - After clicking the Send button, it collates all the input variables and places them into data that will be POSTED to the RestDB database. The username and userEmail must be unique <br /><br />
+Feature5 -  The Document will GET all the accounts from the database after getting in the response, the function for the button will be written. If the user inputs are similar in the response it will show an error message and the POST will not be sent.
 
 ## ----------Gacha.html----------
 Feature1 - Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap.<br /><br />

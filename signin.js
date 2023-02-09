@@ -1,5 +1,7 @@
 $(document).ready(function () {
     const APIKEY = "63b97b3b969f06502871ac1a";
+    let allTheRows = []
+    //Reading all the rows and storing them in the database
     
     $("#signin-submit").on("click", function (e) {
         e.preventDefault()
@@ -21,6 +23,7 @@ $(document).ready(function () {
           console.log(typeof username)
           console.log(typeof password)
           $.ajax(settings).done(function (response) {
+            console.log(typeof response)
             for (var i = 0; i < response.length; i++){
                 console.log("Database username:" + response[i].username)
                 console.log("Database password:" + response[i].password)
