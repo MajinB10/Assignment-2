@@ -733,6 +733,14 @@ footer .copyright {
 }
 
 
+
+#userIcon{
+    position: relative;
+    top: 50%;
+    font-size: 30px;
+}
+
+
 /* Media */
 @media (max-width: 799px) {
     #intro {
