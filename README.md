@@ -81,6 +81,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 # ----------Credits----------
 ## Content
 ### Logo
+- Logo Created using LogoMaker
 
 ### Banners
 - https://www.besthdwallpaper.com/beach/rocky-beach-ocean-surface-dt_en-US-94873.html (About-Banner)
@@ -88,6 +89,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 - https://www.shop44fr.com/?category_id=1711969 (About-Banner3)
 - https://www.shop44fr.com/?category_id=1711969 (About-Banner4)
 - https://www.freepik.com/free-photos-vectors/jade-roller (Banner)
+- https://www.everyonedeservesgreatdesign.com/ (Shop-Banner)
 
 ### Product Images
 - https://www.haleyivers.com/blog/best-smelling-body-lotions-2021 (Body-Product1)
@@ -111,3 +113,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 - https://www.dermstore.com/blog/top_ten/wrinkle-serums-that-actually-work/ (Feature5)
 - https://www.nykaa.com/beauty-blog/8-breakthrough-products-that-are-selling-faster-than-you-can-count/ (Feature6)
 
+### Footer Images
+- https://www.kcrw.com/app-page-images/badge-app-store.png/view (AppStore Install)
+- https://www.searchenginewatch.com/2012/09/18/google-play-youtube-others-getting-600-20th-century-fox-movies-tv-shows/ (Google Play Store Install)
+- https://www.limpiarcoche.com/gb/content/26-payment-methods (Payement Methods)
