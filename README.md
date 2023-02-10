@@ -78,5 +78,27 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 2 - [BootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * We used BootStrap to have an easier time making website elements like Nav Bar
 
-## ----------Credits----------
-# Content
+# ----------Credits----------
+## Content
+### Banners
+- https://www.besthdwallpaper.com/beach/rocky-beach-ocean-surface-dt_en-US-94873.html (About-Banner)
+- http://www.numama.ru/load/url=http:/mlrd.net/fashion-banner-design-inspiration-55a1.SHTML (About-Banner2)
+- https://www.shop44fr.com/?category_id=1711969 (About-Banner3)
+- https://www.shop44fr.com/?category_id=1711969 (About-Banner4)
+- https://www.freepik.com/free-photos-vectors/jade-roller (Banner)
+### Product Images
+- https://www.haleyivers.com/blog/best-smelling-body-lotions-2021 (Body-Product1)
+- https://www.amazon.sg/Juicy-Skin-Care-Glitter-secret/dp/B00VWLGXQQ (Body-Product2)
+- https://www.amazon.ca/Resurrection-Aromatique-Hand-Wash-17-99oz/dp/B0072J58MM (Body-Product3)
+- https://media.thebodyshop.com/i/thebodyshop/TEA_TREE_SKIN_CLEARING_FACIAL_WASH_250ML_1_INRSDPS085.jpg?$product-zoom$ (Face-Product1)
+- https://incidecoder.com/products/the-body-shop-seaweed-deep-cleansing-gel-wash (Face-Product2)
+- https://www.uvv2shop.com/?product_id=420407324_56 (Face-Product3)
+- https://m.media-amazon.com/images/I/71Rz1jROEkL.jpg (Hair-Product1)
+- https://www.wjzgs.com/?a=5&b=5&c=2000124&pp=best+shampoos+curly+hair (Hair-Product2)
+- https://www.amazon.com/TRESemm%C3%A9-Moisturizing-Shampoo-Conditioner-Moisture/dp/B07RYVF7HG (Hair-Product3)
+- https://vogue.sg/iconic-beauty-products/ (Perfume-Product1)
+- https://www.parfumo.net/Perfumes/Jones_New_York/signature-violet-blossom-sandalwood-eau-de-parfum (Perfume-Product2)
+- https://www.amazon.in/Christian-Dior-Sauvage-Parfum-Spray/dp/B079TR2JHT (Perfume-Product3)
+### Featured Images
+- https://unsplash.com/photos/Pm0K9Y3EPUc (Featured1)
+
