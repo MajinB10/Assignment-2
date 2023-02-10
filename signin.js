@@ -35,12 +35,12 @@ $(document).ready(function () {
                     localStorage.setItem("points",response[i].points)
                     localStorage.setItem("id",response[i]._id)
                     window.location.replace("/about.html");
-                    break
-                }
-                else{
-                    alert("Invalid information");
+                    return
                 }
             }
+            
+              alert("Invalid information");
+
           });
     })
 
