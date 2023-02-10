@@ -18,6 +18,9 @@ $(document).ready(function () {
       $("#makeaccount-submit").on("click", function (e) {
         e.preventDefault()
 
+        document.getElementById("form-username").innerHTML = ``
+        document.getElementById("form-email").innerHTML = ``
+
         for (var i = 0; i < response.length; i++){
           if (Object.values(response[i]).indexOf($("#account-username").val())>-1){
             document.getElementById("form-username").innerHTML += `<small id="username-taken">UserNameTaken</small>`
