@@ -731,13 +731,9 @@ footer .copyright {
 #account-made .alert {
     font-weight: bold;
 }
-
-
-
-#userIcon{
-    position: relative;
-    top: 50%;
-    font-size: 30px;
+#userinfo {
+    padding: 10%;
+    font-size: 2000%;
 }
 
 
