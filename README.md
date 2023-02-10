@@ -86,6 +86,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 ### Logo
 - Logo Created using LogoMaker
 
+## Media
 ### Banners
 - https://www.besthdwallpaper.com/beach/rocky-beach-ocean-surface-dt_en-US-94873.html (About-Banner)
 - http://www.numama.ru/load/url=http:/mlrd.net/fashion-banner-design-inspiration-55a1.SHTML (About-Banner2)
@@ -120,3 +121,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 - https://www.kcrw.com/app-page-images/badge-app-store.png/view (AppStore Install)
 - https://www.searchenginewatch.com/2012/09/18/google-play-youtube-others-getting-600-20th-century-fox-movies-tv-shows/ (Google Play Store Install)
 - https://www.limpiarcoche.com/gb/content/26-payment-methods (Payement Methods)
+
+## Acknowledgements
+- We recieved inspiration of the concept from beuty shops like innisfree and the bodyshop
+- The point system is based on the shopee point system and wheel spinning as well
