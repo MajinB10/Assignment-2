@@ -80,12 +80,15 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 
 # ----------Credits----------
 ## Content
+### Logo
+
 ### Banners
 - https://www.besthdwallpaper.com/beach/rocky-beach-ocean-surface-dt_en-US-94873.html (About-Banner)
 - http://www.numama.ru/load/url=http:/mlrd.net/fashion-banner-design-inspiration-55a1.SHTML (About-Banner2)
 - https://www.shop44fr.com/?category_id=1711969 (About-Banner3)
 - https://www.shop44fr.com/?category_id=1711969 (About-Banner4)
 - https://www.freepik.com/free-photos-vectors/jade-roller (Banner)
+
 ### Product Images
 - https://www.haleyivers.com/blog/best-smelling-body-lotions-2021 (Body-Product1)
 - https://www.amazon.sg/Juicy-Skin-Care-Glitter-secret/dp/B00VWLGXQQ (Body-Product2)
@@ -99,6 +102,7 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 - https://vogue.sg/iconic-beauty-products/ (Perfume-Product1)
 - https://www.parfumo.net/Perfumes/Jones_New_York/signature-violet-blossom-sandalwood-eau-de-parfum (Perfume-Product2)
 - https://www.amazon.in/Christian-Dior-Sauvage-Parfum-Spray/dp/B079TR2JHT (Perfume-Product3)
+
 ### Featured Images
 - https://unsplash.com/photos/Pm0K9Y3EPUc (Featured1)
 - https://awomansconfidence.com/2021/04/28/monthly-faves-april-2021/ (Featured2)
