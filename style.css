@@ -735,6 +735,30 @@ footer .copyright {
     padding: 10%;
     font-size: 2000%;
 }
+#signup{
+    background-color: plum;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;   
+    transition: 0.3s ease;
+    border-radius: 4px;
+}
+#signup:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: translateY(-3px);
+    background-color: black;
+    color: white;
+    transition: 0.3s ease;
+}
+#signuppos {
+    padding-top: 10px;
+}
 
 
 /* Media */
