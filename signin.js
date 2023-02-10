@@ -34,7 +34,7 @@ $(document).ready(function () {
                     localStorage.setItem("useremail",response[i].userEmail)
                     localStorage.setItem("points",response[i].points)
                     localStorage.setItem("id",response[i]._id)
-                    window.location.replace("/userinfo.html");
+                    window.location.replace("userinfo.html");
                     return
                 }
             }
@@ -45,7 +45,7 @@ $(document).ready(function () {
     })
 
     function signUp() {
-      window.location.replace("/signup.html")
+      window.location.replace("signup.html")
     }
     document.getElementById("signup").onclick = function(){signUp()}
     
