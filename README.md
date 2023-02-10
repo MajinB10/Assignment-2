@@ -95,7 +95,7 @@ The user will open in the index file where there is a navigation bar that has 6 
 - Login
 - Cart
 
-## Home
+### Home
 Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap. It 
 Has a background image related to the overall theme of the website. The Picture has some words which act as advertisements to the user. Below the advertsing words, there is a shop now button. Clicking on the shop now button will lead to the shop.html file.<br /><br /> 
 It shows cetegories of products which are avaiable in our store. These objects cannot be clicked on and only has a hover effect placed on them.Having a featured sections which shows popular products bought by our previous customers. clicking on this object will open the specific product.html file. Object has hover attributes.<br /><br />
@@ -117,7 +117,7 @@ When Clicking on the cart icon on the bottom right of the product, the user will
 The entire page has a background color which suits the accent of our chosen theme which is beauty products
 Page is responsive<br /><br />
 
-## Shop
+### Shop
 Has a navigation Bar to navigate to different parts of the website. Each navbar element will lead to a new html file created by us. Navigation Bar is created using Bootstrap.
 There is a shop header which shows that you are in the shop section of the website.<br /><br />
 Below he shop header, all the products offered by our e-commerce store will be shown. Each product is interactable and has an hover effect. Once the user clicks onto the product, the respective product.html file will be opened.
@@ -127,7 +127,7 @@ All of the elements placed inside the footer are interactable. Clicking them wil
 The entire page has a background color which suits the accent of our chosen theme which is beauty products.
 Page is responsive.<br /><br />
 
-## About
+### About
 Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap
 There is a About header which shows that you are in the About section of the website<br /><br />
 The About page is made to have a parallex affect while scrolling down the page. While enjoying the parallex effect, the customers will be able to learn about CLaire's history and how is was founded. <br /><br />
@@ -137,7 +137,7 @@ At the final parallex scrolling effect, there will be a list of all the awards t
 Shows categories of products which are avaiable in our store. These objects cannot be clicked on and only has a hover effect placed on them.<br /><br />
 We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page.Page is responsive<br /><br />
 
-## Sign In
+### Sign In
 Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap
 We have created a footer for my website. It conatins all of the store's contact information. <br /><br />
 All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page
@@ -154,7 +154,7 @@ Page is responsive<br /><br />
 After clicking the Send button, it collates all the input variables and places them into data that will be POSTED to the RestDB database. The username and userEmail must be unique <br /><br />
 The Document will GET all the accounts from the database After the GET response, the function for the button will be written. If the user inputs are similar in the response it will show an error message and the POST will not be sent<br /><br />
 
-## Gatcha
+### Gatcha
 Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. <br /><br />
 Navigation Bar is created using Bootstrap
 The wheel is made using CSS, each time a player spins the wheel 10 points will be deducted from the database using the PUT function update the database, and changing the localstorage of points<br /><br />
@@ -162,7 +162,7 @@ A popup of the won prize will be shown after 5 seconds,using function delay of t
 
 
 
-## Cart 
+### Cart 
 Has a navigation Bar to navigate to different parts of the website. Each navbar elemet will lead to a new html file created by us. Navigation Bar is created using Bootstrap
 It has a lottie animation in the background of the page to display ther mesasage that the cart section of the website is currently under maintenance. <br /><br />
  We have created a footer for my website. It conatins all of the store's contact information. All of the elements placed inside the footer are interactable. Clicking them will redirect you to the relevant page<br /><br />
