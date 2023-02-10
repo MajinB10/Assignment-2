@@ -865,4 +865,7 @@ footer .copyright {
     .parallax4 {
         min-height: 300px;
     }
+    #userinfo .user-p {
+        padding-left: 10%;
+    }
 }
