@@ -914,4 +914,29 @@ footer .copyright {
     #userinfo .user-p {
         padding-left: 10%;
     }
+    #userinfo {
+        padding: 30%;
+        font-size: 1000%;
+        padding-left: 30%;
+        padding-top: 20%;
+        display: block;
+    }
+    #user-details {
+        padding-top: 10%;
+        padding-right: 260%;
+    }
+    #userinfo-username {
+        font-size: 20px;
+    }
+    #userinfo-userPoints {
+        font-size: 20px;
+    }
+    #userinfo-userEmail {
+        font-size: 20px;
+    }
+    #logoutpos {
+        padding-right: 100px;
+
+
+    }
 }
