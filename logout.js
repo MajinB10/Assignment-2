@@ -9,7 +9,7 @@ $(document).ready(function () {
 
     function logout() {
         localStorage.clear()
-        window.location.replace("/index.html");
+        window.location.replace("index.html");
 
     }
 

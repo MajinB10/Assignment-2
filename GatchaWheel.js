@@ -1,6 +1,6 @@
 $(document).ready(function () {
     if ((localStorage.getItem("username") == null) &&(localStorage.getItem("pwd") == null) ){
-        window.location.replace("/signin.html");
+        window.location.replace("signin.html");
     }
 
 })
