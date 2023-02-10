@@ -86,6 +86,18 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 2 - [BootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * We used BootStrap to have an easier time making website elements like Nav Bar<a/>
 
+3-[RestDb](https://restdb.io/)
+* We used RestDb to store information of the user and the API Commands like (GET,PUT,POST) for features like login ,signup and Gatcha<a/>
+
+4-[Lottie](https://lottiefiles.com/)
+*We used Lottie as an animation for the Checkout being down<a/>
+
+### Languages Used
+* HTML
+* CSS
+* JavaScript
+
+
 ## ----------Testing----------
 The user will open in the index file where there is a navigation bar that has 6 Options to choose from:
 - Home
