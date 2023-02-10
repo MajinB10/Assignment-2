@@ -76,7 +76,10 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 
 
 2 - [BootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-* We used BootStrap to have an easier time making website elements like Nav Bar
+* We used BootStrap to have an easier time making website elements like Nav Bar<a/>
+
+## ----------Testing----------
+
 
 # ----------Credits----------
 ## Content
