@@ -1,4 +1,16 @@
 $(document).ready(function () {
+  function delay(time) {
+    return new Promise(resolve => setTimeout(resolve, time)); // in ms
+  }
+  function backtohome(username,userEmail,password,points){
+    localStorage.setItem("username",username)
+    localStorage.setItem("pwd",password)
+    localStorage.setItem("useremail",userEmail)
+    localStorage.setItem("points",points)
+    window.location.replace("userinfo.html");
+  }
+
+
     const APIKEY = "63b97b3b969f06502871ac1a";
     $("#account-made").hide();
     let originalHTMLUsername = document.getElementById("form-username").innerHTML
@@ -74,6 +86,10 @@ $(document).ready(function () {
             $("#makeaccount-submit").prop("disabled",false)
 
             $("#account-made").show().fadeOut(3000);
+
+            delay(5000).then(backtohome(username,email,password,points))
+
+            
           });
 
 
