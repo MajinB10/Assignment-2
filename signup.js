@@ -43,6 +43,7 @@ $(document).ready(function () {
         let username = $("#account-username").val() ;
         let email = $("#account-email").val() ;
         let password =$("#account-password").val() ;
+        let points = 0
 
 
         console.log(typeof username)
@@ -51,7 +52,8 @@ $(document).ready(function () {
         let data= {
             "username": username,
             "userEmail": email,
-            "password": password
+            "password": password,
+            "points": points
         }
         
         var settings = {
