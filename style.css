@@ -731,10 +731,7 @@ footer .copyright {
 #account-made .alert {
     font-weight: bold;
 }
-#userinfo {
-    padding: 10%;
-    font-size: 2000%;
-}
+
 #signup{
     background-color: plum;
     border: none;
@@ -759,7 +756,56 @@ footer .copyright {
 #signuppos {
     padding-top: 10px;
 }
+#logout {
+    background-color: plum;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;   
+    transition: 0.3s ease;
+    border-radius: 4px;
+}
+#logout:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transform: translateY(-3px);
+    background-color: black;
+    color: white;
+    transition: 0.3s ease;
+}
 
+#userinfo {
+    padding: 10%;
+    font-size: 2000%;
+    padding-left: 30%;
+    display: flex;
+}
+#user-details {
+    padding-top: 8%;
+
+}
+#userinfo-username {
+    padding-left: 100%;
+    display: flex;
+    font-size: 20px;
+}
+#userinfo-userPoints {
+    padding-left: 100%;
+    display: flex;
+    font-size: 20px;
+}
+#userinfo-userEmail {
+    padding-left: 100%;
+    display: flex;
+    font-size: 20px;
+}
+#logoutpos {
+    padding-right: 100px;
+}
 
 /* Media */
 @media (max-width: 799px) {
