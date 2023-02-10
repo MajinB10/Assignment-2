@@ -34,7 +34,7 @@ $(document).ready(function () {
                     localStorage.setItem("useremail",response[i].userEmail)
                     localStorage.setItem("points",response[i].points)
                     localStorage.setItem("id",response[i]._id)
-                    window.location.replace("/about.html");
+                    window.location.replace("/userinfo.html");
                     return
                 }
             }
