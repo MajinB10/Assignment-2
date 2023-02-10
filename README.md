@@ -101,4 +101,9 @@ Feature3 - A popup of the won prize will be shown after 5 seconds,using function
 - https://www.amazon.in/Christian-Dior-Sauvage-Parfum-Spray/dp/B079TR2JHT (Perfume-Product3)
 ### Featured Images
 - https://unsplash.com/photos/Pm0K9Y3EPUc (Featured1)
+- https://awomansconfidence.com/2021/04/28/monthly-faves-april-2021/ (Featured2)
+- https://www.lizzieinlace.com/11-pink-beauty-products-you-need-this-summer/ (Featured3)
+- https://www.istockphoto.com/photo/natural-organic-spa-cosmetic-products-set-with-eucalyptus-leaves-top-view-herbal-gm1300459022-392778529 (Featured4)
+- https://www.dermstore.com/blog/top_ten/wrinkle-serums-that-actually-work/ (Feature5)
+- https://www.nykaa.com/beauty-blog/8-breakthrough-products-that-are-selling-faster-than-you-can-count/ (Feature6)
 
